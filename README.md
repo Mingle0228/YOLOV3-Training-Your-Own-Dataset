@@ -224,6 +224,6 @@ Or specify gpu training, and use gpu0 by default(you can use `nvidia-smi` to vie
    
     $ ./darknet detector train cfg/my_data.data cfg/my_yolov3.cfg darknet53.conv.74 -gups 0,1,2,34
  Every 100 iterations, a model weight is generated on the backup folder,
-when AVG loss doesn't drop in several iterations, you can stop training(generally, 600 iterations is enough).
+when AVG loss doesn't drop in several iterations, you can stop training.
 
 ![plot](backup.JPG)
