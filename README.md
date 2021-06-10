@@ -37,7 +37,7 @@ you will get a picture `prediction.jpg` like this
 The following tutorial is to detect three different kinds of objects: `person`,`cat`,`dog`, 
 and use [labelImg](https://github.com/tzutalin/labelImg) to label pictures.
 
-**1.Download [labelImg](https://tzutalin.github.io/labelImg/):**
+**1.Download [labelImg](https://github.com/tzutalin/labelImg):**
 - Double click to run
 
 ![plot](dog.png)
